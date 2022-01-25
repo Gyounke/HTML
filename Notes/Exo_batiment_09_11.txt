@@ -1,0 +1,16 @@
+ Exercice BATIMENT:
+ 
+ 
+ Etapes:
+ 
+ 1: Création de dossiers/fichiers
+ 
+ mkdir -p BATIMENT/{etage1/{appartement1/{chambre,cuisine,salledebain,salon},appartement2/{chambre,cuisine,salledebain,salon},appartement3/{chambre,cuisine,salledebain,salon},appartement4/{chambre,cuisine,salledebain,salon}},etage2/{appartement1/{chambre,cuisine,salledebain,salon},appartement2/{chambre,cuisine,salledebain,salon},appartement3/{chambre,cuisine,salledebain,salon},appartement4/{chambre,cuisine,salledebain,salon}}} && touch BATIMENT/etage1/appartement1/{tv.txt,lit.txt,frigo.txt
+ 
+ Etape 2:
+ 
+ DDéplacer frigo dans cuisine : 
+ 
+ mv BATIMENT/etage1/appartement1/frigo.txt BATIMENT/etage1/appartement1/cuisine/ && mv BATIMENT/etage1/appartement1/lit.txt BATIMENT/etage1/appartement1/chambre/ && mv BATIMENT/etage1/appartement1/tv.txt BATIMENT/etage1/appartement1/salon/
+ 
+ pole bar cat amazing slight treat border school earth island traffic security

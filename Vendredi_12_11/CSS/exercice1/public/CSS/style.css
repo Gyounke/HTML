@@ -1,0 +1,29 @@
+*{
+    margin: O;
+}
+
+h1{
+    color: red;
+}
+
+h2{
+    color: blue;
+}
+
+p{
+    background-color: red;
+    font-weight: bold ;
+    font-size: x-large;
+}
+
+#under{
+    text-decoration: underline;
+}
+
+h4{
+    font-weight: bold;
+}
+
+li{
+    font-style: italic;
+}

@@ -1,0 +1,43 @@
+/**{
+    margin: 0;
+}
+
+#vert{
+    color: green;
+}
+
+.rouge{
+    color: red;
+    background-color: red;
+}
+
+h1{
+    color:yellow;
+    margin: 50px;
+}
+
+div{
+    background-color: red;
+    width: 20%;
+    height: 20%;
+}
+*/
+
+h1{
+    margin: 20px;
+    border: 2px solid red;
+    padding: 15px;
+    text-align: center;
+}
+
+li,a{
+    color: green;
+}
+
+ul>li:first-of-type{
+    color: red;
+}
+
+ul>li:nth-of-type(2){
+    color: royalblue;
+}
